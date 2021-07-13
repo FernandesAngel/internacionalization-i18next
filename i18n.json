@@ -1,0 +1,10 @@
+{
+    "locales": ["en-US", "pt-BR"],
+    "defaultLocale": "pt-BR",
+    "pages": {
+        "*": ["menu"],
+        "/": ["home"],
+        "/sobre": ["about"],
+        "/contato": ["contact"]
+    }
+}
